@@ -5,3 +5,9 @@ node_modules/
 test2gitignoring.txt
 
 testik2.txt
+
+*.log
+
+TEST*.xml
+
+*.jar
